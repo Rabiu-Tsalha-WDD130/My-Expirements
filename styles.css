@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    width: 450px;
+    width: 420px;
     background: linear-gradient(130deg, rgb(43, 99, 218), rgb(22, 22, 220)); 
     color: white;
     padding: 18px;
